@@ -1,14 +1,14 @@
 # Site settings
 title: food.foosel.net
 email: gina@foosel.net
-description: The plain text recipe database for hackers
+description: Some of my favourite recipes...
 url: https://food.foosel.net
 baseurl: ""
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+twitter_username: foosel
+github_username:  foosel
 
 # Build settings
 markdown: kramdown
