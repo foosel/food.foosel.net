@@ -2,6 +2,7 @@
 title: food.foosel.net
 email: gina@foosel.net
 description: The plain text recipe database for hackers
+url: https://food.foosel.net
 baseurl: ""
 language: "en"
 lang_direction: "ltr"
