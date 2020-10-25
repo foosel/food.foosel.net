@@ -3,12 +3,14 @@
 layout: recipe
 title:  "Risotto Milanese"
 image: risotto-milanese.jpg
-tags: dessert
+tags: main course, risotto
 
 preptime: PT5m
 cooktime: PT25m
 totaltime: PT30m
 activetime: PT30m
+
+yield: 4 servings
 
 ingredients:
 - 50g unsalted butter
