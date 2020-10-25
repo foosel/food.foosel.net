@@ -5,6 +5,10 @@ title:  "Banana Bread"
 image: banana-bread.jpg
 tags: baking
 
+preptime: PT20m
+cooktime: PT60m
+totaltime: PT90m
+
 ingredients:
 - 250g flour (sieved)
 - 1 teaspoon natron

@@ -5,6 +5,10 @@ title:  "Yogurt Bread"
 image: yogurt-bread.jpg
 tags: breakfast, baking, bread
 
+activetime: PT30min
+cooktime: PT45m
+totaltime: PT26h
+
 ingredients:
 - 565g wheat flour (wheat 550, "bread flour" should work)
 - 140g cold water

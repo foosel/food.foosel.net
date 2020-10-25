@@ -5,6 +5,11 @@ title:  "Soft Cheese Bread"
 image: soft-cheese-bread.jpg
 tags: baking
 
+preptime: PT25m
+cooktime: PT45m
+totaltime: PT3h10m
+activetime: PT25m
+
 ingredients:
 - 120ml buttermilk
 - 80ml water

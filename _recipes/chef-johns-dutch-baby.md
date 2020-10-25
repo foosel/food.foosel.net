@@ -5,6 +5,10 @@ title:  "Chef John's Dutch Baby"
 image: dutch-baby.jpg
 tags: baking, dessert
 
+preptime: PT10m
+cooktime: PT20m
+totaltime: PT30m
+
 ingredients:
 - 2/3 cup milk, room temp
 - 1/2 cup packed flour

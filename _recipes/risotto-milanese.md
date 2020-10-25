@@ -5,6 +5,11 @@ title:  "Risotto Milanese"
 image: risotto-milanese.jpg
 tags: dessert
 
+preptime: PT5m
+cooktime: PT25m
+totaltime: PT30m
+activetime: PT30m
+
 ingredients:
 - 50g unsalted butter
 - 1-2 onions (white or red, both work)
