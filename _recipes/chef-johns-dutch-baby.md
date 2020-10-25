@@ -13,7 +13,7 @@ ingredients:
 - 2/3 cup milk, room temp
 - 1/2 cup packed flour
 - 3 large eggs, room temp
-- 6-8 drops vanilla aroma (Germany)
+- 6-8 drops vanilla aroma (German) or 1/4 tsp vanilla extract (German)
 - 1/4 tsp salt
 - 4 tbsp unsalted butter
 - powdered sugar for dusting
