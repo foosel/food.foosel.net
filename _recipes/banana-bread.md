@@ -11,7 +11,7 @@ totaltime: PT90m
 
 ingredients:
 - 250g flour (sieved)
-- 1 teaspoon natron
+- 1 teaspoon baking soda ("Natron" in Germany)
 - 1 pinch of salt
 - 115g soft unsalted butter
 - 100g brown sugar
