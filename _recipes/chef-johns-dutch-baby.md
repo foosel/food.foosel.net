@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Chef John's Dutch Baby"
 image: dutch-baby.jpg
-tags: baking, dessert
+tags: baking dessert
 
 preptime: PT10m
 cooktime: PT20m

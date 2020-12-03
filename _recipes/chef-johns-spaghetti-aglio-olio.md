@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Chef John's Spaghetti Aglio Olio"
 image: spaghetti-aglio-olio.jpg
-tags: main course, pasta, spaghetti
+tags: main-course pasta spaghetti
 
 preptime: PT10m
 cooktime: PT20m

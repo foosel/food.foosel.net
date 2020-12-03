@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Yogurt Bread"
 image: yogurt-bread.jpg
-tags: breakfast, baking, bread
+tags: breakfast baking bread
 
 activetime: PT30min
 cooktime: PT45m

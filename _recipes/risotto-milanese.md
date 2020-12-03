@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Risotto Milanese"
 image: risotto-milanese.jpg
-tags: main course, risotto
+tags: main-course risotto
 
 preptime: PT5m
 cooktime: PT25m
