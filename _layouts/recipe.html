@@ -61,6 +61,16 @@ layout: default
       </ul>
       {% endif %}
 
+      {% if page.equipment %}
+      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].equipment }}</h4>
+      <ul itemprop="equipment">
+        <!-- list equipment that is needed for the recipe -->
+        {% for equipment in page.equipment %}
+        <li itemprop="recipeEquipment">{{ equipment | markdownify }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
     </div>
 
     <div class="sm-col sm-col-6 lg-col-6">

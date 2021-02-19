@@ -21,6 +21,8 @@ collections:
     output: true
   recipes:
     output: true
+  directions:
+    output: true
 
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
@@ -28,6 +30,7 @@ translation:
   en:
     components: "Components"
     ingredients: "Ingredients"
+    equipment: "Equipment"
     directions: "Directions"
     category: "Category"
     nutritional_information: "Nutritional Information"
@@ -38,6 +41,7 @@ translation:
   de:
     components: "Komponenten"
     ingredients: "Zutaten"
+    equipment: "Equipment"
     directions: "Zubereitung"
     category: "Kategorie"
     nutritional_information: "Nährwertangaben"
