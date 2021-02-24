@@ -22,7 +22,7 @@ ingredients:
 
 equipment:
 - "[caquelon](https://en.wikipedia.org/wiki/Caquelon) or fondue pot & burner"
-- fondue forks (one per person)
+- fondue forks (at least one per person)
 
 directions:
 - Grate the cheese. Mix the cornstarch with the Kirschwasser (there should be no lumps). Cut the clove of garlic in half and use it to rub the inside of your fondue pot. Cut the bread into bite sized cubes (2-3cm are a good size if you are unsure).
