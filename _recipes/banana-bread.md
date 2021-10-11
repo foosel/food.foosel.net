@@ -29,3 +29,4 @@ directions:
 
 ---
 
+Adapted from [chefkoch.de](https://www.chefkoch.de/rezepte/1339901238802410/Banana-Bread.html).

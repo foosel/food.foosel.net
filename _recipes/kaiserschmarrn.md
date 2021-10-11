@@ -32,3 +32,5 @@ directions:
 
 
 ---
+
+From a [Genussakademie](https://www.genussakademie.com/) course.
