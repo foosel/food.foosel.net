@@ -15,7 +15,7 @@ ingredients:
 - 100ml dry white wine **per person** (e.g. Riesling)
 - 1.5tsp of [Kirsch](https://en.wikipedia.org/wiki/Kirsch) **per person**
 - 1tsp of corn starch **per person**
-- 0.5 loafs of a baguette or similar long bread **per person**
+- 1 [freshly baked baguette](./baguette.html) **per person** (**OR** 0.5 loafs of store-bought baguette or other long bread **per person**)
 - 1 clove of garlic
 - freshly ground black pepper
 - freshly ground nutmeg
