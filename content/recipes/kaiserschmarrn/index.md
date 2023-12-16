@@ -1,6 +1,4 @@
 ---
-
-layout: recipe
 title:  "Kaiserschmarrn"
 image: kaiserschmarrn.jpg
 tags: 

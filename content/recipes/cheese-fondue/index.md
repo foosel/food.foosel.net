@@ -1,6 +1,4 @@
 ---
-
-layout: recipe
 title:  "Cheese Fondue"
 image: cheese-fondue.jpg
 tags: 

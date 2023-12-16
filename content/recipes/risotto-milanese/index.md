@@ -1,6 +1,4 @@
 ---
-
-layout: recipe
 title:  "Risotto Milanese"
 image: risotto-milanese.jpg
 tags: 

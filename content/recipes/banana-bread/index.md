@@ -1,6 +1,4 @@
 ---
-
-layout: recipe
 title:  "Banana Bread"
 image: banana-bread.jpg
 tags: 

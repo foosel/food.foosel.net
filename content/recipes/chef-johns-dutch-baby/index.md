@@ -1,6 +1,4 @@
 ---
-
-layout: recipe
 title:  "Chef John's Dutch Baby"
 image: dutch-baby.jpg
 tags: 

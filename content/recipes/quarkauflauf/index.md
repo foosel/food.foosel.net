@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: "Quark casserole"
 image: quarkauflauf.jpg
 tags: 

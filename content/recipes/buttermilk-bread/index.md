@@ -1,6 +1,4 @@
 ---
-
-layout: recipe
 title:  "Buttermilk Bread"
 image: buttermilk-bread.jpg
 tags: 
@@ -20,8 +18,7 @@ ingredients:
 - 200g of buttermilk
 
 directions:
-- See [general instructions for yeast breads](../directions/generic-yeast-bread.html).
-
+- See [general instructions for yeast breads](../../directions/yeast-breads/).
 
 ---
 

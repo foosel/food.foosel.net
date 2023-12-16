@@ -1,6 +1,4 @@
 ---
-
-layout: recipe
 title:  "Yogurt Bread"
 image: yogurt-bread.jpg
 tags: 
@@ -20,7 +18,7 @@ ingredients:
 - 280g of yogurt 3.5%
 
 directions:
-- See [general instructions for yeast breads](../directions/generic-yeast-bread.html).
+- See [general instructions for yeast breads](../../directions/yeast-breads/).
 
 
 ---

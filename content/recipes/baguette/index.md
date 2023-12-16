@@ -1,6 +1,4 @@
 ---
-
-layout: recipe
 title:  "Baguette"
 image: baguette.jpg
 tags: 

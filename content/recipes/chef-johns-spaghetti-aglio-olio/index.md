@@ -1,6 +1,4 @@
 ---
-
-layout: recipe
 title:  "Chef John's Spaghetti Aglio Olio"
 image: spaghetti-aglio-olio.jpg
 tags: 

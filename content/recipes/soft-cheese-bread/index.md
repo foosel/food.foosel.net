@@ -1,6 +1,4 @@
 ---
-
-layout: recipe
 title:  "Soft Cheese Bread"
 image: soft-cheese-bread.jpg
 tags: 
