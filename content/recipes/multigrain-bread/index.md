@@ -13,7 +13,7 @@ totaltime: 8h
 ingredients:
 - 80g rolled oats or other rolled seeds + some extra for the top
 - 40g sunflower seeds
-- cold water (225g + 70g, see below for details)
+- cold water (300g + 70g, see directions for details)
 - 280g wheat flour (wheat 550, "bread flour" should work)
 - 120g whole Emmer flour (or whole wheat flour)
 - 14g kosher salt
