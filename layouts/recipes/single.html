@@ -74,6 +74,18 @@
           {{ end }}
         </ul>
         {{ end }}
+
+        {{ with .Params.Equipment }}
+        <h4 class="blue mt0 mb2 xs-center">{{ i18n "equipment" }}</h4>
+        <ul itemprop="equipment">
+          <!-- list equipment needed for the recipe -->
+          {{ range . }}
+          <li itemprop="recipeEquipment">
+            {{ with ( . | markdownify) }}{{ partial "recipe_item.html" . }}{{ end }}
+          </li>
+          {{ end }}
+        </ul>
+        {{ end }}
       </div>
 
       <div class="sm-col sm-col-6 lg-col-6 recipeItems">

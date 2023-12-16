@@ -9,3 +9,6 @@ other = "Cooking time: {{.}}"
 
 [totalTime]
 other = "Total time: {{.}}"
+
+[equipment]
+other = "Equipment"
