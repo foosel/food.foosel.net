@@ -1,0 +1,8 @@
+baseURL: https://food.foosel.net
+languageCode: en-us
+title: food.foosel.net
+theme: 
+  - "gochowdown"
+
+params:
+  showNavTitle: true

@@ -1,0 +1,6 @@
+[submodule "content/recipes/themes/gochowdown"]
+	path = content/recipes/themes/gochowdown
+	url = https://github.com/seanlane/gochowdown.git
+[submodule "themes/gochowdown"]
+	path = themes/gochowdown
+	url = https://github.com/seanlane/gochowdown.git

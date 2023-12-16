@@ -1,0 +1,11 @@
+[yields]
+other = "Yields: {{.}}"
+
+[prepTime]
+other = "Preparation time: {{.}}"
+
+[cookTime]
+other = "Cooking time: {{.}}"
+
+[totalTime]
+other = "Total time: {{.}}"
