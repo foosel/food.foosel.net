@@ -1,8 +1,11 @@
 version: '3'
 
+dotenv: ['.env']
+
 vars:
   TERMUX: '{{and .PREFIX (contains "com.termux" .PREFIX)}}'
   TODAY: '{{now | date "2006-01-02"}}'
+  HUGO: '{{default "hugo" .HUGO}}'
 
 tasks:
   serve:
@@ -42,3 +45,9 @@ tasks:
       - |
         mv "{{.BUNDLE}}/index.md" "{{.PAGE}}"
         rm -r "{{.BUNDLE}}"
+
+  update-mods:
+    desc: Updates all submodules.
+    cmds:
+      - git submodule update --remote --merge
+      - cd themes/gochowdown && git pull origin master
