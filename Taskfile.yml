@@ -11,12 +11,14 @@ tasks:
   serve:
     desc: Runs hugo serve, all posts visible.
     cmds:
-      - hugo serve -D -E -F {{if .TERMUX}}--noBuildLock{{end}} --bind=0.0.0.0 --baseURL=http://0.0.0.0:1313
+      - |
+        {{.HUGO}} serve -D -E -F {{if .TERMUX}}--noBuildLock{{end}} --bind=0.0.0.0 --baseURL=http://0.0.0.0:1313
 
   build:
     desc: Create a production build of the site in ./public.
     cmds:
-      - hugo --minify {{if .TERMUX}}--noBuildLock{{end}}
+      - |
+        {{.HUGO}} --minify {{if .TERMUX}}--noBuildLock{{end}}
 
   to-bundle:
     desc: Turns a single page (page.md) into a bundle (page/index.md).
